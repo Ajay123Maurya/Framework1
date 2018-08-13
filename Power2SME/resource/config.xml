@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<details>
+	<driversheetdetails>
+	<drvsheetpath>/home/ajay/Power2SME/DriverSheet/Driversheet.xls</drvsheetpath>
+			<drvsheetname>test</drvsheetname>
+	</driversheetdetails>
+	<screenshotpath>
+		<srcpath>/home/ajay/Power2SME/Screenshot</srcpath>
+	</screenshotpath>
+	<resultfolderpath>
+		<rstpath>/home/ajay/Power2SME/Result</rstpath>
+	</resultfolderpath>
+	<modeOfExecution>
+		<hiddenMode>false</hiddenMode>
+	</modeOfExecution>
+	<wait>
+		<implicitWait>5</implicitWait>
+	</wait>
+</details>
